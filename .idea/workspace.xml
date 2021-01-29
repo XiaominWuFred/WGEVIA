@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="926beaa1-e2b2-445a-827c-bf2d6a20caac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="29de3688-0454-4a5e-bca2-2a8206e73680" />
+  <component name="ProjectId" id="1f6E14h8MhFNITzjFnKhRQOdmzV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mgenia_dataflow/src/util/rc_datamining_dl_1d_cv.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/mgenia_dataflow/src/util/rc_datamining_dl_1d_cv.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/visualization" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MCSWE1.1origin/multiChannelGen/src" />
+      <recent name="$PROJECT_DIR$/multiChannelG2V/GCNWork/src" />
+      <recent name="$PROJECT_DIR$/FiveNodes/GCNWork/src" />
+      <recent name="$PROJECT_DIR$/mgenia_dataflow/src/util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.accRuntime_plot">
+    <configuration name="accRuntime_plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mgenia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/visualization/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization/src/accRuntime_plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chordPLotREAL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mgenia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/visualization/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization/src/chordPLotREAL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rc_datamining_dl_1d_cv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mgenia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../../xiaomin/kyunghunJournal/neuromodulation/software/mgenia/MCSWE1.1origin/multiChannelGen/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../../xiaomin/kyunghunJournal/neuromodulation/software/mgenia/MCSWE1.1origin/multiChannelGen/src/rc_datamining_dl_1d_cv.py" />
+      <option name="PARAMETERS" value="../channels/g2vFeatures/combinedFeature.csv ../exp/runtimeRecord/modelSave.csv 40 2 ../exp/runtimeRecord/lastLoss.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="svm_prediction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mgenia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../../xiaomin/kyunghunJournal/neuromodulation/software/mgenia/MCSWE1.1origin/multiChannelGen/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../../xiaomin/kyunghunJournal/neuromodulation/software/mgenia/MCSWE1.1origin/multiChannelGen/src/svm_prediction.py" />
+      <option name="PARAMETERS" value="../channels/g2vFeatures/combinedFeature.csv ../exp/runtimeRecord/modelSave.csv 40 1 ../exp/runtimeRecord/lastLoss.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mgenia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/visualization/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visualization/src/testT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.rc_datamining_dl_1d_cv" />
+      <item itemvalue="Python.svm_prediction" />
+      <item itemvalue="Python.chordPLotREAL" />
+      <item itemvalue="Python.accRuntime_plot" />
+      <item itemvalue="Python.testT" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.accRuntime_plot" />
+        <item itemvalue="Python.testT" />
+        <item itemvalue="Python.chordPLotREAL" />
+        <item itemvalue="Python.rc_datamining_dl_1d_cv" />
+        <item itemvalue="Python.svm_prediction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="926beaa1-e2b2-445a-827c-bf2d6a20caac" name="Default Changelist" comment="" />
+      <created>1595529923132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595529923132</updated>
+      <workItem from="1595529925812" duration="2156000" />
+      <workItem from="1595859439145" duration="22579000" />
+      <workItem from="1595955524098" duration="13110000" />
+      <workItem from="1596482532729" duration="8153000" />
+      <workItem from="1596749351169" duration="620000" />
+      <workItem from="1598079395127" duration="7526000" />
+      <workItem from="1598114655237" duration="26360000" />
+      <workItem from="1598201301124" duration="9916000" />
+      <workItem from="1598377952579" duration="713000" />
+      <workItem from="1598402343190" duration="130000" />
+      <workItem from="1598475019888" duration="1870000" />
+      <workItem from="1598560294787" duration="5235000" />
+      <workItem from="1598729291159" duration="2344000" />
+      <workItem from="1599530906203" duration="1391000" />
+      <workItem from="1602266487885" duration="7245000" />
+      <workItem from="1602351815826" duration="4076000" />
+      <workItem from="1602870661314" duration="11844000" />
+      <workItem from="1602997551584" duration="1091000" />
+      <workItem from="1603170177748" duration="10157000" />
+      <workItem from="1603211562527" duration="42000" />
+      <workItem from="1603219564281" duration="7404000" />
+      <workItem from="1603331820741" duration="292000" />
+      <workItem from="1603431910201" duration="9904000" />
+      <workItem from="1603611231672" duration="2619000" />
+      <workItem from="1603682198749" duration="14012000" />
+      <workItem from="1604333403648" duration="4523000" />
+      <workItem from="1604449676711" duration="56000" />
+      <workItem from="1604954276535" duration="2875000" />
+      <workItem from="1605186652335" duration="2071000" />
+      <workItem from="1605399346288" duration="1693000" />
+      <workItem from="1605407428034" duration="815000" />
+      <workItem from="1605410863058" duration="763000" />
+      <workItem from="1606246434936" duration="64000" />
+      <workItem from="1606492762087" duration="1390000" />
+      <workItem from="1607120785619" duration="3266000" />
+      <workItem from="1609598834370" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="908" y="394" width="800" height="677" key="#Deployment" timestamp="1598079441307">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="908" y="394" width="800" height="677" key="#Deployment/67.27.2493.1413@67.27.2493.1413" timestamp="1598079441307" />
+    <state x="870" y="463" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603682482716">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="870" y="463" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1603682482716" />
+    <state width="1596" height="506" key="DebuggerActiveHint" timestamp="1603180801384">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1596" height="506" key="DebuggerActiveHint/67.27.2493.1413@67.27.2493.1413" timestamp="1603180801384" />
+    <state x="142" y="35" width="2293" height="1215" key="DiffContextDialog" timestamp="1602884257276">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="142" y="35" width="2293" height="1215" key="DiffContextDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1602884257276" />
+    <state x="167" y="125" width="2293" height="1215" key="DirDiffDialog" timestamp="1603228311344">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="167" y="125" width="2293" height="1215" key="DirDiffDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1603228311344" />
+    <state x="1429" y="464" width="374" height="361" key="FileChooserDialogImpl" timestamp="1602884221846">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1079" y="353" width="374" height="361" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599534964188" />
+    <state x="1429" y="464" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1413@67.27.2493.1413" timestamp="1602884221846" />
+    <state width="1257" height="392" key="GridCell.Tab.0.bottom" timestamp="1606494191764">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1257" height="392" key="GridCell.Tab.0.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1606494191764" />
+    <state width="1257" height="392" key="GridCell.Tab.0.center" timestamp="1606494191764">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1257" height="392" key="GridCell.Tab.0.center/67.27.2493.1413@67.27.2493.1413" timestamp="1606494191764" />
+    <state width="1257" height="392" key="GridCell.Tab.0.left" timestamp="1606494191764">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1257" height="392" key="GridCell.Tab.0.left/67.27.2493.1413@67.27.2493.1413" timestamp="1606494191764" />
+    <state width="1257" height="392" key="GridCell.Tab.0.right" timestamp="1606494191764">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1257" height="392" key="GridCell.Tab.0.right/67.27.2493.1413@67.27.2493.1413" timestamp="1606494191764" />
+    <state width="1482" height="488" key="GridCell.Tab.1.bottom" timestamp="1603448819142">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1482" height="488" key="GridCell.Tab.1.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1603448819142" />
+    <state width="1482" height="488" key="GridCell.Tab.1.center" timestamp="1603448819141">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1482" height="488" key="GridCell.Tab.1.center/67.27.2493.1413@67.27.2493.1413" timestamp="1603448819141" />
+    <state width="1482" height="488" key="GridCell.Tab.1.left" timestamp="1603448819140">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1482" height="488" key="GridCell.Tab.1.left/67.27.2493.1413@67.27.2493.1413" timestamp="1603448819140" />
+    <state width="1482" height="488" key="GridCell.Tab.1.right" timestamp="1603448819141">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1482" height="488" key="GridCell.Tab.1.right/67.27.2493.1413@67.27.2493.1413" timestamp="1603448819141" />
+    <state x="1137" y="294" key="SettingsEditor" timestamp="1598213668692">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1137" y="294" key="SettingsEditor/67.27.2493.1413@67.27.2493.1413" timestamp="1598213668692" />
+    <state width="1246" height="707" key="XDebugger.FullValuePopup" timestamp="1603182483867">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1246" height="707" key="XDebugger.FullValuePopup/67.27.2493.1413@67.27.2493.1413" timestamp="1603182483867" />
+    <state x="494" y="427" width="381" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604334072221">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="494" y="427" width="381" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.2493.1413@67.27.2493.1413" timestamp="1604334072221" />
+    <state x="1178" y="626" width="260" height="212" key="publish.login" timestamp="1606493891505">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="893" y="473" width="260" height="212" key="publish.login/67.27.1853.1053@67.27.1853.1053" timestamp="1599531056240" />
+    <state x="1178" y="626" width="260" height="212" key="publish.login/67.27.2493.1413@67.27.2493.1413" timestamp="1606493891505" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mgenia_dataflow/src/util/UGENIA.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mgenia_dataflow/src/util/svm_prediction.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mgenia_dataflow/src/util/rc_datamining_dl_1d_cv.py</url>
+          <line>241</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mgenia_dataflow/src/util/swg2v/graphFeatureGen.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MCSWE1.1origin/multiChannelGen/src/rc_datamining_dl_1d_cv.py</url>
+          <line>173</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MCSWE1.1origin/multiChannelGen/src/svm_prediction.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MCSWE1.1origin/multiChannelGen/src/svm_prediction.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/visualization/src/chordPLotREAL.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/visualization/src/chordPLotREAL.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/visualization/src/chordPLotREAL.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mgenia$svm_prediction__1_.coverage" NAME="svm_prediction2 Coverage Results" MODIFIED="1598087011253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../xiaomin/kyunghunJournal/neuromodulation/software/mgenia/mgenia_dataflow/src/util" />
+    <SUITE FILE_PATH="coverage/mgenia$rc_datamining_dl_1d_cv__1_.coverage" NAME="rc_datamining_dl_1d_cv1 Coverage Results" MODIFIED="1598121064813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../xiaomin/kyunghunJournal/neuromodulation/software/mgenia/mgenia_dataflow/src/util" />
+    <SUITE FILE_PATH="coverage/mgenia$accRuntime_plot.coverage" NAME="accRuntime_plot Coverage Results" MODIFIED="1606493691345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization/src" />
+    <SUITE FILE_PATH="coverage/mgenia$mgenia_graph.coverage" NAME="mgenia_graph Coverage Results" MODIFIED="1598730473055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mgenia_dataflow/src/graphs" />
+    <SUITE FILE_PATH="coverage/mgenia$svm_prediction.coverage" NAME="svm_prediction Coverage Results" MODIFIED="1602880070804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../xiaomin/kyunghunJournal/neuromodulation/software/mgenia/MCSWE1.1origin/multiChannelGen/src" />
+    <SUITE FILE_PATH="coverage/mgenia$rc_datamining_dl_1d_cv.coverage" NAME="rc_datamining_dl_1d_cv Coverage Results" MODIFIED="1602881817598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../xiaomin/kyunghunJournal/neuromodulation/software/mgenia/MCSWE1.1origin/multiChannelGen/src" />
+    <SUITE FILE_PATH="coverage/mgenia$loadGraph.coverage" NAME="loadGraph Coverage Results" MODIFIED="1595871571492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mgenia_dataflow/src/util" />
+    <SUITE FILE_PATH="coverage/mgenia$mgenia_loadGraph.coverage" NAME="mgenia_loadGraph Coverage Results" MODIFIED="1595872602100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mgenia_dataflow/src/actors" />
+    <SUITE FILE_PATH="coverage/mgenia$chordPLotREAL.coverage" NAME="chordPLotREAL Coverage Results" MODIFIED="1603230658170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization/src" />
+    <SUITE FILE_PATH="coverage/mgenia$testT.coverage" NAME="testT Coverage Results" MODIFIED="1603688247787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/visualization/src" />
+  </component>
+</project>
