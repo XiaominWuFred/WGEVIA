@@ -5,7 +5,14 @@ graph embedding; it also includes standard deep learning models for classificati
 generated graph embedding features.  
 
 For details of WGEVIA algorithm, please refer to the WGEVIA paper:  
-link  
+
+@article{wu2020wgevia,
+  title={WGEVIA: A Graph Level Embedding Method for Microcircuit Data},
+  author={Wu, Xiaomin and Bhattacharyya, Shuvra S and Chen, Rong},
+  journal={Frontiers in Computational Neuroscience},
+  year={2020},
+  publisher={Frontiers Research Foundation}
+}
 
 If you find that WGEVIA is useful to your research, please cite the published paper:  
 WGEVIA: Graph Level Embedding for Microcircuit Data  
